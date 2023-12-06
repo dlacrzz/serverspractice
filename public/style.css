@@ -1,0 +1,102 @@
+body {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,121,9,1) 0%, rgba(15,191,198,1) 88%, rgba(10,198,217,1) 98%, rgba(0,212,255,1) 100%);
+}
+
+.timg {
+  width: 265px;
+  border: 2px solid;
+}
+
+.timg:hover {
+  transform: scale(1.1);
+}
+
+.p1 {
+  border: 2px solid #9D4242;
+  padding: 15px;
+}
+
+.p2 {
+  border: 2px solid #997F76;
+  padding: 15px;
+}
+
+.p3 {
+  border: 2px solid #48A6F0;
+  padding: 15px;
+}
+
+.p4 {
+  border: 2px solid #ED9648;
+  padding: 15px;
+}
+
+.secret {
+  display: none;
+  border: 2px solid #FFFFFF;
+  padding: 15px;
+}
+
+
+h1 {
+  color: gold;
+}
+
+#secretButton {
+  color: white;
+  background-color: gray;
+}
+
+h2:hover {
+  text-decoration: underline;
+}
+
+.hidden {
+  display: none;
+}
+
+#price1:hover {
+  color: #DDE8B3;
+  text-decoration: underline;
+}
+
+#price2:hover {
+  color: #DDE8B3;
+  text-decoration: underline;
+}
+
+#price3:hover {
+  color: #DDE8B3;
+  text-decoration: underline;
+}
+
+#price4:hover {
+  color: #DDE8B3;
+  text-decoration: underline;
+}
+
+#priceSecret:hover {
+  color: #DDE8B3;
+  text-decoration: underline;
+}
+
+#resPrice {
+  color: #DDE8B3;
+}
+
+#stPrice {
+  color: #DDE8B3;
+}
+
+#gstPrice {
+  color: #DDE8B3;
+}
+
+#btPrice {
+  color: #DDE8B3;
+}
+
+#secretPrice {
+  color: #DDE8B3;
+}
